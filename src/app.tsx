@@ -16,6 +16,7 @@ import './app.scss'
 
 const store = configStore()
 console.log('app');
+console.log('app v2');
 class App extends Component {
 
   /**
